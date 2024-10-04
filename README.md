@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello! I'm Ernar Khanapin 👋
 
-<!--
-**bwjson/bwjson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ernar--khanapin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ernar-khanapin-b59180316/)
+[![GitHub](https://img.shields.io/badge/GitHub-bwjson-black?style=flat-square&logo=github)](https://github.com/bwjson)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bwjson-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/bwjson/)
 
-Here are some ideas to get you started:
+## 📍 Location
+Astana, Kazakhstan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Django, DRF, FastAPI
+- Git/GitHub
+- SQL (PostgreSQL, SQLite)
+- Algorithms and Data Structures
+- Postman, Swagger
+- Redis, Celery
+- Docker
+
+## 🎓 Education
+- Astana IT University, Degree: Software Engineering
+
+
