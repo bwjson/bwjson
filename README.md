@@ -24,4 +24,13 @@ Astana, Kazakhstan
 ## 🎓 Education
 - Astana IT University, Degree: Software Engineering
 
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bwjson&layout=compact&theme=radical)
+
+### 📊 GitHub Stats
+
+![Ernar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bwjson&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+
 Feel free to reach out if you'd like to collaborate or just chat about tech! 😊
