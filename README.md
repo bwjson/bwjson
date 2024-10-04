@@ -24,6 +24,7 @@ Astana, Kazakhstan
 ## 🎓 Education
 - Astana IT University, Degree: Software Engineering
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bwjson&layout=compact&theme=radical)
 
 ### 📊 GitHub Stats
