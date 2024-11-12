@@ -1,6 +1,6 @@
 # Hello! I'm Ernar Khanapin 👋
 
-### Backend Developer
+### Golang Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ernar--khanapin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ernar-khanapin-b59180316/)
 [![GitHub](https://img.shields.io/badge/GitHub-bwjson-black?style=flat-square&logo=github)](https://github.com/bwjson)
@@ -11,6 +11,7 @@ Astana, Kazakhstan
 
 ## 🛠️ Stack
 
+![Go](https://img.shields.io/badge/Golang-3776AB?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
