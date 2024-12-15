@@ -1,6 +1,6 @@
 # Hello! I'm Ernar Khanapin 👋
 
-### Golang Backend Developer
+### Python/Golang Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ernar--khanapin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ernar-khanapin-b59180316/)
 [![GitHub](https://img.shields.io/badge/GitHub-bwjson-black?style=flat-square&logo=github)](https://github.com/bwjson)
